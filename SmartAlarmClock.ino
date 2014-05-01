@@ -176,10 +176,4 @@ void loop(){
     noTone(A3); 
   }
 }
-/*
-void loop2(){
-  speaker(200, 500, 0);
-}
-void loop3(){
-//yield();
-}*/
+
