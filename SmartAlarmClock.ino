@@ -1,4 +1,4 @@
-//May 1, 2014 - 6:11 pm
+//May 5, 2014 - 6:56 pm
 //Stopwatch/Alarmclock with Keypad, speaker and LCD
 //LCD SETUP: https://learn.adafruit.com/assets/2364
 //KEYPAD SETUP:
