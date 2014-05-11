@@ -1,5 +1,10 @@
-//May 5, 2014 - 7:05 pm
+//May 10, 2014 - 8:00 pm
 //Stopwatch/Alarmclock with Keypad, speaker and LCD
+
+//ARDUINO TUTORIALS THAT WERE USED AS REFERENCE:
+  //http://arduino.cc/en/Tutorial/tone
+  //http://arduino.cc/en/Tutorial/LiquidCrystal
+  //http://playground.arduino.cc/Main/KeypadTutorial
 //LCD SETUP: https://learn.adafruit.com/assets/2364
 //KEYPAD SETUP:
 /*
@@ -13,9 +18,7 @@ KEYPAD PIN      ARDUINO PIN
     7                13
     8                A5
 */
-//SPEAKER SETUP
-//resistor --> pin A3
-//other wire --> GND
+
 
 // Necessary Libraries
 #include <Keypad.h>
